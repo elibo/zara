@@ -13,8 +13,16 @@
       <button id="addProductBtn">Añadir Producto</button>
       <button id="addRowBtn">Añadir Fila</button>
 
+      <button id="zoomInBtn">Zoom In</button>
+      <button id="zoomOutBtn">Zoom Out</button>
+
       <div id="editor" class="editor">
-        <div id="rowsContainer" class="rows-container"></div>
+        <div
+          id="rowsContainer"
+          class="rows-container"
+          ondrop="dropRow(event)"
+          ondragover="allowDrop(event)"
+        ></div>
       </div>
     </div>
 
