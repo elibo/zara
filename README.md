@@ -1,8 +1,8 @@
-##Prueba Técnica - Inditex
+# Prueba Técnica - Inditex
 
 Este repositorio contiene una prueba técnica diseñada para evaluar habilidades en desarrollo web en el contexto de Inditex.
 
-###Tecnologías Utilizadas
+### Tecnologías Utilizadas
 
 HTML5
 
@@ -10,7 +10,7 @@ CSS3
 
 JavaScript 
 
-###Requisitos
+### Requisitos
 
 Para ejecutar este proyecto de manera local:
 
@@ -31,7 +31,7 @@ Estructura del Proyecto
 │── README.md        # Documentación
 ```
 
-###Contacto
+### Contacto
 
 Si tienes alguna duda o sugerencia, no dudes en contactarme en epv1991@gmail.com
 
